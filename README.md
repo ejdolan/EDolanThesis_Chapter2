@@ -1,6 +1,6 @@
 # Chapter2_BaRRieRSdatabase
 
-This is the location where the data and code corresponding to my PhD Chapter 2 (BaRRieRS database: A global synthesis of biological responses to river reconnectivity) are stored.
+This is the location where the data and code corresponding to my PhD **Chapter 2 (BaRRieRS database: A global synthesis of biological responses to river reconnectivity)**__ are stored.
 
 **Abstract**
 Motivation: River barrier removals have become a key strategy for restoring freshwater habitat connectivity, yet biological responses remain unresolved across  taxa, regions, and time scales, limiting broad-scale evaluation of restoration outcomes and potential trade-offs between native species recovery and non-native species spread. The BaRRieRS (Barrier Removals and the Response of Riverine Species) database provides the first harmonised source of global information on population- and community-level responses to artificial barrier removal in river systems.
