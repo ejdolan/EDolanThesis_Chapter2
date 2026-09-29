@@ -2,7 +2,7 @@
 
 This is the location where the data and code corresponding to my PhD _**Chapter 2 (BaRRieRS database: A global synthesis of biological responses to river reconnectivity)**_ are stored.
 
-**Abstract**
+**Abstract**_
 **Motivation:** River barrier removals have become a key strategy for restoring freshwater habitat connectivity, yet biological responses remain unresolved across taxa, regions, and time scales, limiting broad-scale evaluation of restoration outcomes and potential trade-offs between native species recovery and non-native species spread. The BaRRieRS (Barrier Removals and the Response of Riverine Species) database provides the first harmonised source of global information on population- and community-level responses to artificial barrier removal in river systems.
 **Main types of variables contained:** The database contains 12,853 biological records and 110 variables describing barrier characteristics and removal history, river and habitat attributes, study design and sampling, taxonomy and invasion status, and quantitative population- and community-level measurements before, during and after barrier removal.
 **Spatial location and grain:** Data were compiled from 45 publications spanning North America, Europe, Asia and Oceania. Records are georeferenced to barrier locations and, where available, individual sampling sites, with distances between sampling sites and barriers retained.
